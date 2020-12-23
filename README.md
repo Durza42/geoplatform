@@ -1,6 +1,7 @@
 # geoplatform
 Jeu de platforme (C, SDL2, SDL_ttf2, SDL_mixer2)
 
+--------------------------------------------------------------
 
 Vous êtes un carré qui peut sauter... Et c'est tout !
 
