@@ -44,8 +44,3 @@ Voir la liscence pour voir la liscence (^_^)
 
 
 Créé par Durza42.
-
-
-
-
-Si un traducteur passe par là, il peut me contacter via mon mail de contacte (une version anglaise ne serait pas mal).
