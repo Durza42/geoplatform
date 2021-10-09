@@ -21,9 +21,9 @@ Commandes :
 
 par défaut : 
 
-<espace> pour sauter, ou pour monter dans une zone de vol
-<r> pour afficher le menu des paramètres, où vous pourrez modifier vos touches
-<a> pour jouer au mode arcade (depuis le menu des mondes uniquement)
+espace pour sauter, ou pour monter dans une zone de vol
+r pour afficher le menu des paramètres, où vous pourrez modifier vos touches
+a pour jouer au mode arcade (depuis le menu des mondes uniquement)
 
 
 ----------------------------------------------------------------
