@@ -35,7 +35,7 @@ Voir la liscence pour voir la liscence (^_^)
 ----------------------------------------------------------------
 
 
-
+Vous pouvez me compiler avec ' gcc geoplatform.c -o geoplatform.out `sdl2-config --libs` -lSDL2_ttf -lSDL2_mixer ' (depuis /geoplatform)
 
 
 
