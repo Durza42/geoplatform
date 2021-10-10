@@ -163,6 +163,8 @@ bool Inits (Var *var, Gal *gal, Gal_mus *gal_mus) {
 
    var  -> fenetre = SDL_CreateWindow ("geoplatform", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, LONG_WIND, HAUT_WIND, SDL_WINDOW_SHOWN | SDL_WINDOW_RESIZABLE); // la fenetre. titre : geoplatform. position : peu importe. taille : 650 x 500. redimentionnable.
 
+   ShowWindow (GetConsoleWindow (), SW_HIDE); // on cache la fenetre de terminal de windows qui s'ouvre auto...
+
    var -> renderer = SDL_CreateRenderer (var -> fenetre, -1, SDL_RENDERER_ACCELERATED); // renderer, que l'on acocie à la fenetre
 
    var -> render = SDL_CreateTexture (var -> renderer, SDL_PIXELFORMAT_RGBA8888, SDL_TEXTUREACCESS_TARGET, LONG_WIND, HAUT_WIND); // on peut maintenant dessiner sur var -> arriere_plan ou sur la fenetre.
