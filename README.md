@@ -22,21 +22,20 @@ Commandes :
 par défaut : 
 
 espace pour sauter, ou pour monter dans une zone de vol
-r pour afficher le menu des paramètres, où vous pourrez modifier vos touches
-a pour jouer au mode arcade (depuis le menu des mondes uniquement)
+R pour afficher le menu des paramètres, où vous pourrez modifier vos touches
+A pour jouer au mode arcade (depuis le menu des mondes uniquement)
 
 
 ----------------------------------------------------------------
 
 
-Voir la liscence pour voir la liscence (^_^)
+Voir la licence pour voir la licence (^^)
 
 
 ----------------------------------------------------------------
 
 
-Vous pouvez me compiler avec ' gcc geoplatform.c -o geoplatform.out `sdl2-config --libs` -lSDL2_ttf -lSDL2_mixer ' (depuis /geoplatform)
-
+Vous pouvez me compiler avec ' gcc geoplatform.c -o geoplatform.out `sdl2-config --libs` -lSDL2_ttf -lSDL2_mixer ' (depuis /geoplatform) sur un système linux
 
 
 
